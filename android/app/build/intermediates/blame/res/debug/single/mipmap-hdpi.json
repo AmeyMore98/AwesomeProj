@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Amay\\Downloads\\AwesomeProj\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\logo.png",
+        "source": "C:\\Users\\Amay\\Downloads\\AwesomeProj\\android\\app\\src\\main\\res\\mipmap-hdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\AwesomeProj\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "D:\\AwesomeProj\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AwesomeProj\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\logo.png",
+        "source": "D:\\AwesomeProj\\android\\app\\src\\main\\res\\mipmap-hdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\AwesomeProj\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "D:\\AwesomeProj\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Amay\\Downloads\\AwesomeProj\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\Amay\\Downloads\\AwesomeProj\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Amay\\Downloads\\AwesomeProj\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Amay\\Downloads\\AwesomeProj\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\AwesomeProj\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\logo.png",
+        "source": "D:\\AwesomeProj\\android\\app\\src\\main\\res\\mipmap-xhdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\AwesomeProj\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_round.png",
+        "source": "D:\\AwesomeProj\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AwesomeProj\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "D:\\AwesomeProj\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    }
+]
